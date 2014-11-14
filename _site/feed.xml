@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom Tang</title>
+    <description>Java Developer from Auckland</description>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>You&#39;re up and running!</title>
+        <description>&lt;p&gt;start to post blog on github&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Mar 2014 00:00:00 +1300</pubDate>
+        <link>/Hello-World/</link>
+        <guid isPermaLink="true">/Hello-World/</guid>
+      </item>
+    
+  </channel>
+</rss>
