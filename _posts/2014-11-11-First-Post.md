@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: First Post!
 ---
 
 start to post blog on github

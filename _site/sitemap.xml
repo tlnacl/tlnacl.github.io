@@ -3,9 +3,17 @@
   
   
   <url>
-    <loc>/Hello-World/</loc>
+    <loc>/Second-Post/</loc>
     
-    <lastmod>2014-03-03T00:00:00+13:00</lastmod>
+    <lastmod>2014-11-14T00:00:00+13:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/First-Post/</loc>
+    
+    <lastmod>2014-11-11T00:00:00+13:00</lastmod>
     
     <priority>0.8</priority>
   </url>
@@ -13,21 +21,21 @@
   
   <url>
     <loc>/404.html</loc>
-    <lastmod>2014-11-14T18:31:14+13:00</lastmod>
+    <lastmod>2014-11-15T15:28:31+13:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/about/</loc>
-    <lastmod>2014-11-14T18:31:14+13:00</lastmod>
+    <lastmod>2014-11-15T15:28:31+13:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2014-11-14T18:31:14+13:00</lastmod>
+    <lastmod>2014-11-15T15:28:31+13:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
